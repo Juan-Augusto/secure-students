@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --header-height: 4.5rem;
+
+  /* colors */
+  --hue: 0; /* Changed hue to black */
+  /* HSL color mode */
+  --base-color: hsl(var(--hue), 10%, 10%); /* Dark base color */
+  --base-color-second: hsl(var(--hue), 10%, 20%); /* Darker base color */
+  --base-color-alt: hsl(var(--hue), 10%, 5%); /* Darkest base color */
+  --title-color: hsl(var(--hue), 0%, 90%); /* Light title color */
+  --text-color: hsl(0 0% 46%); /* Original text color */
+  --text-color-light: hsl(0 0% 98%); /* Original light text color */
+  --body-color: hsl(0 0% 98%); /* Original body color */
+
+  /*fonts*/
+  --title-font-size: 1.875rem;
+  --subtitle-font-size: 1rem;
+
+  --title-font: "Poppins", sans-serif;
+  --body-font: "DM Sans", sans-serif;
+}
+
+body {
+  font-family: var(--body-font); /* Use body font variable */
+  margin: 0;
+  padding: 0;
+  background-color: var(--base-color); /* Use dark base color for background */
+  color: var(--text-color); /* Use original text color */
+}
+p {
+  text-align: justify;
+}
+
+header {
+  background-color: var(
+    --base-color-second
+  ); /* Use darker base color for header */
+  color: var(--title-color); /* Use light title color */
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  background-color: var(
+    --base-color-alt
+  ); /* Use darkest base color for buttons */
+  color: var(--title-color); /* Use light title color for button text */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  transition: ease-in-out 0.3s;
+  background-color: var(
+    --base-color-second
+  ); /* Use darker base color on hover */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+}
+
+footer {
+  background-color: var(
+    --base-color-second
+  ); /* Use darker base color for footer */
+  color: var(--title-color); /* Use light title color for footer text */
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Add custom styles for the section divider */
+#introduction .row::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#introduction .col-md-6 {
+  float: left;
+  width: 50%;
+  position: relative; /* Add position relative */
+}
+
+#introduction h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Add vertical divider line */
+#introduction .col-md-6.related-info::before {
+  content: "";
+  border-left: 1px solid #ccc;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0; /* Change left to 0 */
+}
+
+#introduction .image {
+  position: relative;
+}
+#introduction .image::before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: var(--base-color-second);
+  position: absolute;
+  top: -8.3;
+  left: 20%;
+  top: 7%;
+  z-index: 0;
+}
+#introduction .image img {
+  position: relative;
+}
+#introduction .image img,
+#introduction .image::before {
+  border-radius: 0.25rem;
+}
+
+.carousel-buttons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin: 1em;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.card {
+  flex: 0 0 auto;
+  width: 98%;
+  margin: 0 10px;
+  background-color: var(--base-color-alt);
+  border: 1px solid var(--base-color-second);
+  padding: 20px;
+}
+
+.card-text,
+.card-title,
+.text-body-secondary {
+  color: var(--text-color-light) !important;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
