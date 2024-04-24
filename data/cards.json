@@ -4,84 +4,35 @@
             "artigos": [
                 {
                     "title": "Precauções sobre o roubo do celular (Android)",
-                    "body": "A primeira coisa a se fazer após um assalto é entrar em contato com 
-                    as autoridades responsáveis, após isso é necessário alguns procedimentos. 
-                    Como os celulares android normalmente vem com uma conta google vinculada a eles, 
-                    todo o processo de busca se torna mais fácil, basta acessar 
-                    https://www.google.com/android/find/ logar com sua conta google, e
-                    selecionar a opção mostrando o seu modelo de celular. Mesmo com essa facilidade o assaltante pode tomar medidas para cortar o acesso por isso separamos algumas configurações simples de se fazer que você pode fazer agora no seu celular.
-                    Após um assalto o primeiro procedimento que o assaltante faz é ligar o modo avião, o que é possível mesmo com a tela bloqueada, para cortar o acesso à rede evitando assim que o celular seja encontrado por alguma aplicação de segurança. Para impedir isso você pode pressionar configurações, depois tela de bloqueio e selecionar a opção bloquear rede e segurança, dessa forma é impossível ativar o modo avião com a tela bloqueada.
-                    Inicialização Segura
-                    A inicialização segura é uma configuração do aparelho para pedir senha sempre ao ligar o aparelho. Para configurar esse padrão você deve re-cadastrar a sua digital ou senha, ao final desse processo o sistema android vai perguntar se deseja ativar inicialização segura, escolha a opção sim.
-                    Bloquear ao desligar
-                    Outra configuração possível é ativar o bloqueio ao desligar o celular. Para evitar que o assaltante consiga desligar o celular após um furto ou assalto, dando mais tempo assim para usar ferramentas de localização. Pressione configurações e depois segurança ou biometria, esta opção estará disponível, basta seleciona-la. A primeira coisa a se fazer após um assalto é entrar em contato com as autoridades responsáveis, após isso é necessário alguns procedimentos. Como os celulares android normalmente vem com uma conta google vinculada a eles, todo o processo de busca se torna mais fácil, basta acessar https://www.google.com/android/find/ logar com sua conta google, e selecionar a opção mostrando o seu modelo de celular. Mesmo com essa facilidade o assaltante pode tomar medidas para cortar o acesso por isso separamos algumas configurações simples de se fazer que você pode fazer agora no seu celular.
-                    Após um assalto o primeiro procedimento que o assaltante faz é ligar o modo avião, o que é possível mesmo com a tela bloqueada, para cortar o acesso à rede evitando assim que o celular seja encontrado por alguma aplicação de segurança. Para impedir isso você pode pressionar configurações, depois tela de bloqueio e selecionar a opção bloquear rede e segurança, dessa forma é impossível ativar o modo avião com a tela bloqueada.
-                    Inicialização Segura
-                    A inicialização segura é uma configuração do aparelho para pedir senha sempre ao ligar o aparelho. Para configurar esse padrão você deve re-cadastrar a sua digital ou senha, ao final desse processo o sistema android vai perguntar se deseja ativar inicialização segura, escolha a opção sim.
-                    Bloquear ao desligar
-                    Outra configuração possível é ativar o bloqueio ao desligar o celular. Para evitar que o assaltante consiga desligar o celular após um furto ou assalto, dando mais tempo assim para usar ferramentas de localização. Pressione configurações e depois segurança ou biometria, esta opção estará disponível, basta seleciona-la."
+                    "body": "A primeira coisa a se fazer após um assalto é entrar em contato com as autoridades responsáveis, após isso é necessário alguns procedimentos. Como os celulares android normalmente vem com uma conta google vinculada a eles, todo o processo de busca se torna mais fácil, basta acessar https://www.google.com/android/find/ logar com sua conta google, e selecionar a opção mostrando o seu modelo de celular. Mesmo com essa facilidade o assaltante pode tomar medidas para cortar o acesso por isso separamos algumas configurações simples de se fazer que você pode fazer agora no seu celular.\nApós um assalto o primeiro procedimento que o assaltante faz é ligar o modo avião, o que é possível mesmo com a tela bloqueada, para cortar o acesso à rede evitando assim que o celular seja encontrado por alguma aplicação de segurança. Para impedir isso você pode pressionar configurações, depois tela de bloqueio e selecionar a opção bloquear rede e segurança, dessa forma é impossível ativar o modo avião com a tela bloqueada.\nInicialização Segura\nA inicialização segura é uma configuração do aparelho para pedir senha sempre ao ligar o aparelho. Para configurar esse padrão você deve re-cadastrar a sua digital ou senha, ao final desse processo o sistema android vai perguntar se deseja ativar inicialização segura, escolha a opção sim.\nBloquear ao desligar\nOutra configuração possível é ativar o bloqueio ao desligar o celular. Para evitar que o assaltante consiga desligar o celular após um furto ou assalto, dando mais tempo assim para usar ferramentas de localização. Pressione configurações e depois segurança ou biometria, esta opção estará disponível, basta seleciona-la. A primeira coisa a se fazer após um assalto é entrar em contato com as autoridades responsáveis, após isso é necessário alguns procedimentos. Como os celulares android normalmente vem com uma conta google vinculada a eles, todo o processo de busca se torna mais fácil, basta acessar https://www.google.com/android/find/ logar com sua conta google, e selecionar a opção mostrando o seu modelo de celular. Mesmo com essa facilidade o assaltante pode tomar medidas para cortar o acesso por isso separamos algumas configurações simples de se fazer que você pode fazer agora no seu celular.\nApós um assalto o primeiro procedimento que o assaltante faz é ligar o modo avião, o que é possível mesmo com a tela bloqueada, para cortar o acesso à rede evitando assim que o celular seja encontrado por alguma aplicação de segurança. Para impedir isso você pode pressionar configurações, depois tela de bloqueio e selecionar a opção bloquear rede e segurança, dessa forma é impossível ativar o modo avião com a tela bloqueada.\nInicialização Segura\nA inicialização segura é uma configuração do aparelho para pedir senha sempre ao ligar o aparelho. Para configurar esse padrão você deve re-cadastrar a sua digital ou senha, ao final desse processo o sistema android vai perguntar se deseja ativar inicialização segura, escolha a opção sim.\nBloquear ao desligar\nOutra configuração possível é ativar o bloqueio ao desligar o celular. Para evitar que o assaltante consiga desligar o celular após um furto ou assalto, dando mais tempo assim para usar ferramentas de localização. Pressione configurações e depois segurança ou biometria, esta opção estará disponível, basta seleciona-la."
                 },
                 {
                     "title": "Precauções sobre o roubo do celular (Ios)",
-                    "body": "Assim como no sistema android, no sistema Ios podemos buscar nosso celular perdido acessando o endereço web icloud.com/find. Após locar com sua conta apple a aplicação irá mostrar onde está o seu celular e qualquer outro dispositivo apple, mas também um assaltante ou alguém mal intencionado pode procurar burlar e selecionar o modo avião.
-                    Para que não seja possível tomar esta providência é necessário que seja feita uma configuração para proibir o modo avião em bloqueio de tela. Entre no menu de configurações, selecione a opção Face id e código, e desmarque a opção central de controle. Além disso são necessárias mais algumas configurações.
-                    Ainda no menu de configurações vocÊ deve pressionar na parte superior (onde fica a foto, id) depois pressionar a opção buscar e ativar todas as opções nesse menu, após isso pode pressionar onde tem o nome do aparelho, pressionar em buscar iphone e também marcar todas as opções. Por último, navegue até privacidade  e habilite os serviços de localização e alertas de localização.
-                    Como proceder diante de um assalto"
+                    "body": "Assim como no sistema android, no sistema Ios podemos buscar nosso celular perdido acessando o endereço web icloud.com/find. Após locar com sua conta apple a aplicação irá mostrar onde está o seu celular e qualquer outro dispositivo apple, mas também um assaltante ou alguém mal intencionado pode procurar burlar e selecionar o modo avião.\nPara que não seja possível tomar esta providência é necessário que seja feita uma configuração para proibir o modo avião em bloqueio de tela. Entre no menu de configurações, selecione a opção Face id e código, e desmarque a opção central de controle. Além disso são necessárias mais algumas configurações.\nAinda no menu de configurações vocÊ deve pressionar na parte superior (onde fica a foto, id) depois pressionar a opção buscar e ativar todas as opções nesse menu, após isso pode pressionar onde tem o nome do aparelho, pressionar em buscar iphone e também marcar todas as opções. Por último, navegue até privacidade  e habilite os serviços de localização e alertas de localização.\nComo proceder diante de um assalto"
                 },
                 {
                     "title": "Como proceder diante de um assalto",
-                    "body": "Antes de entrar em detalhes é muito importante salientar que a grande maioria dos assaltantes não sabem bem como manusear uma arma. Durante um assalto eles seguram a arma apontada para a vítima e geralmente colocam já o indicador no gatilho apertando cerca de 75% da base. Qualquer movimento rápido o assaltante pode até mesmo acidentalmente disparar, por tanto é extremamente importante que:
-                    Nunca reaja
-                    O bem mais importante que temos é nossa própria vida, cerca de 80% de tentativas de reação acabam em morte por parte da vítima
-                    
-                    Realize movimentos lentos
-                    Além de sempre avisar o que está fazendo, o principal é fazer o assaltante ficar relaxado pois qualquer impulso pode acabar em uma pressão do indicador no gatilho.
-                    
-                    Não encare o meliante
-                    Geralmente eles se sentem ameaçados com essa postura
-                    
-                    Não prolongue o assalto
-                    Geralmente algumas vítimas pode falar “por favor não faça isso, eu preciso dessa carteira e.t.c” na situação de estresse e ansiedade o assaltante pode acabar atirando.
-                    
-                    Não acelere
-                    No caso de você estar em um carro ou moto pois o criminoso pode de forma reativa efetuar disparos."
+                    "body": "Antes de entrar em detalhes é muito importante salientar que a grande maioria dos assaltantes não sabem bem como manusear uma arma. Durante um assalto eles seguram a arma apontada para a vítima e geralmente colocam já o indicador no gatilho apertando cerca de 75% da base. Qualquer movimento rápido o assaltante pode até mesmo acidentalmente disparar, por tanto é extremamente importante que:\nNunca reaja\nO bem mais importante que temos é nossa própria vida, cerca de 80% de tentativas de reação acabam em morte por parte da vítima\n\nRealize movimentos lentos\nAlém de sempre avisar o que está fazendo, o principal é fazer o assaltante ficar relaxado pois qualquer impulso pode acabar em uma pressão do indicador no gatilho.\n\nNão encare o meliante\nGeralmente eles se sentem ameaçados com essa postura\n\nNão prolongue o assalto\nGeralmente algumas vítimas pode falar “por favor não faça isso, eu preciso dessa carteira e.t.c” na situação de estresse e ansiedade o assaltante pode acabar atirando.\n\nNão acelere\nNo caso de você estar em um carro ou moto pois o criminoso pode de forma reativa efetuar disparos."
                 }
             ],
             "noticias": [
                 {
                     "title": "Violência na USP é a maior dos últimos 5 anos",
-                    "body": "fonte: https://www.jornaldocampus.usp.br/index.php/2023/12/violencia-na-usp-e-a-maior-dos-ultimos-5-anos/
-
-                    Campus da Cidade Universitária teve 163 ocorrências de furtos, roubos e sequestros registradas de janeiro a outubro de 2023"
+                    "body": "fonte: https://www.jornaldocampus.usp.br/index.php/2023/12/violencia-na-usp-e-a-maior-dos-ultimos-5-anos/\n\nCampus da Cidade Universitária teve 163 ocorrências de furtos, roubos e sequestros registradas de janeiro a outubro de 2023"
                 },
                 {
                     "title": "Andar em grupo, deixar pertences em casa e sair da aula mais cedo: onda de roubos muda rotina de alunas da Unicamp em Limeira",
-                    "body": "fonte: https://g1.globo.com/sp/piracicaba-regiao/noticia/2023/05/08/andar-em-grupo-deixar-pertences-em-casa-e-sair-da-aula-mais-cedo-onda-de-roubos-muda-rotina-de-alunas-da-unicamp-em-limeira.ghtml
-
-                    Andar em grupo, deixar em casa notebooks ou tablets, e até faltas nas últimas aulas do período noturno para voltar mais cedo para casa se tornaram rotina na vida de estudantes do campus da Universidade Estadual de Campinas (Unicamp) em Limeira (SP)."
+                    "body": "fonte: https://g1.globo.com/sp/piracicaba-regiao/noticia/2023/05/08/andar-em-grupo-deixar-pertences-em-casa-e-sair-da-aula-mais-cedo-onda-de-roubos-muda-rotina-de-alunas-da-unicamp-em-limeira.ghtml\n\nAndar em grupo, deixar em casa notebooks ou tablets, e até faltas nas últimas aulas do período noturno para voltar mais cedo para casa se tornaram rotina na vida de estudantes do campus da Universidade Estadual de Campinas (Unicamp) em Limeira (SP)."
                 },
                 {
                     "title": "Assalto, agressão e ameaça: como violência afeta a vida escolar de estudantes na periferia de Fortaleza",
-                    "body": "fonte: https://g1.globo.com/ce/ceara/educacao/noticia/2023/08/07/assalto-agressao-e-ameaca-como-violencia-afeta-a-vida-escolar-de-estudantes-na-periferia-de-fortaleza.ghtml
-
-                    A insegurança que viola as ruas, as casas, as escolas, retira até direitos básicos — como o de ir e vir. A gente não podia sair de casa porque estava muito perigoso na rua."
+                    "body": "fonte: https://g1.globo.com/ce/ceara/educacao/noticia/2023/08/07/assalto-agressao-e-ameaca-como-violencia-afeta-a-vida-escolar-de-estudantes-na-periferia-de-fortaleza.ghtml\n\nA insegurança que viola as ruas, as casas, as escolas, retira até direitos básicos — como o de ir e vir. A gente não podia sair de casa porque estava muito perigoso na rua."
                 },
                 {
                     "title": "Mais de 800 roubos e furtos em ônibus foram registrados no Ceará em dois meses",
-                    "body": "fonte: https://g1.globo.com/ce/ceara/noticia/2022/04/06/mais-de-800-roubos-e-furtos-em-onibus-foram-registrados-no-ceara-em-dois-meses.ghtml
-
-                    O Ceará registrou nos dois primeiros meses deste ano 806 roubos e furtos em ônibus, conforme dados da Secretaria da Segurança Pública."
+                    "body": "fonte: https://g1.globo.com/ce/ceara/noticia/2022/04/06/mais-de-800-roubos-e-furtos-em-onibus-foram-registrados-no-ceara-em-dois-meses.ghtml\n\nO Ceará registrou nos dois primeiros meses deste ano 806 roubos e furtos em ônibus, conforme dados da Secretaria da Segurança Pública."
                 }
             ]
         }
     ]
 }
-
-
-
-
-
-
-
-
-
