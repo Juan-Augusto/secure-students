@@ -170,3 +170,134 @@ footer {
   height: 200px;
   object-fit: cover;
 }
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1em;
+}
+.card-tips {
+  border: 1px solid var(--base-color-second);
+  border-radius: 0.5em;
+  padding: 0.5em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card-tips:hover {
+  background-color: var(--base-color-alt);
+  border: 1px solid var(--base-color-second);
+  transform: scale(1.05);
+}
+
+.emoji-alert,
+.emoji-spy,
+.emoji-backpack,
+.emoji-bus,
+.emoji-plan,
+.emoji-lock,
+.emoji-neighborhood-watch,
+.emoji-light,
+.emoji-camera {
+  font-size: 3em; /* Ajusta o tamanho dos emojis */
+  margin: 0; /* Remove as margens dos emojis */
+}
+
+.feedback-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.highlighted-section {
+  background-color: var(
+    --base-color-alt
+  ); /* Usando a variável de cor mais escura */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+  /* Adicionando transição suave para a mudança de cor no hover */
+  transition: background-color 0.3s ease-in-out;
+}
+
+.highlighted-section h2 {
+  color: var(--title-color); /* Usando a variável de cor para títulos */
+}
+
+.highlighted-section p {
+  margin-bottom: 10px;
+  color: var(--text-color); /* Usando a variável de cor para texto */
+}
+
+.highlighted-section button {
+  background-color: var(
+    --base-color-second
+  ); /* Usando a variável de cor secundária */
+  color: var(
+    --text-color-light
+  ); /* Usando a variável de cor para texto claro */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+.highlighted-section button:hover {
+  background-color: var(
+    --base-color
+  ); /* Alterando a cor de fundo ao passar o mouse */
+  color: var(
+    --text-color-light
+  ); /* Mantendo a cor do texto clara ao passar o mouse */
+  animation: glow 1s infinite alternate;
+}
+.moving-button {
+  animation: moveButton 3s ease-in-out infinite alternate; /* Define a animação */
+}
+
+@keyframes glow {
+  0% {
+    opacity: 0.5; /* Começa com opacidade reduzida */
+  }
+  50% {
+    opacity: 1; /* Aumenta a opacidade pela metade da animação */
+  }
+  100% {
+    opacity: 0.5; /* Retorna à opacidade reduzida */
+  }
+}
+
+@keyframes moveButton {
+  0% {
+    transform: translateY(0); /* Define a posição inicial */
+  }
+  100% {
+    transform: translateY(10px); /* Define a posição final */
+  }
+}
+
+footer {
+  background-color: var(--base-color-second);
+  padding: 20px 0;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  clear: both;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-content p {
+  margin: 5px 0;
+}
