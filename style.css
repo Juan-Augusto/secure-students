@@ -110,28 +110,6 @@ footer {
   left: 0; /* Change left to 0 */
 }
 
-#introduction .image {
-  position: relative;
-}
-#introduction .image::before {
-  content: "";
-  height: 100%;
-  width: 100%;
-  background: var(--base-color-second);
-  position: absolute;
-  top: -8.3;
-  left: 20%;
-  top: 7%;
-  z-index: 0;
-}
-#introduction .image img {
-  position: relative;
-}
-#introduction .image img,
-#introduction .image::before {
-  border-radius: 0.25rem;
-}
-
 .carousel-buttons-container {
   display: flex;
   justify-content: center;
@@ -152,7 +130,7 @@ footer {
 
 .card {
   flex: 0 0 auto;
-  width: 98%;
+  /* width: 98%; */
   margin: 0 10px;
   background-color: var(--base-color-alt);
   border: 1px solid var(--base-color-second);
